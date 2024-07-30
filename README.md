@@ -11,7 +11,7 @@
 - Tableau Public
 
 ## Dashboard:
-**HR Attrition Dashboard:** [View Dashboard]()
+**HR Attrition Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/utkarsh.kumar8769/viz/HRNewProject/Dashboard1)
 
 ## Insights:
 - The organization overall has an attrition rate of 16%.
@@ -19,3 +19,5 @@
 - Maximum attrition is seen between the age group of 25-34.
 
 Feel free to explore the dashboard and analyze the trends and metrics related to HR attrition.
+
+![HR Attrition Dashboard](./Dashboard.png)
