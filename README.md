@@ -1,3 +1,8 @@
+![Alt Text](Dashboard.png)
+
+## Dashboard:
+**Employee Attrition Dashboard** [View Dashboard](https://public.tableau.com/app/profile/utkarsh.kumar8769/viz/HRNewProject/Dashboard1)
+
 # Employee Attrition Analysis Dashboard 
 
 This dashboard provides insights into employee attrition trends across different departments, age groups, job roles, and more.
@@ -41,9 +46,3 @@ This dashboard provides insights into employee attrition trends across different
 ---
 
 These insights can help understand trends in employee retention, job satisfaction, and department-specific attrition, offering valuable data for workforce planning and retention strategies.
-
-![Alt Text](Dashboard.png)
-
-## Dashboard:
-**Employee Attrition Dashboard** [View Dashboard](https://public.tableau.com/app/profile/utkarsh.kumar8769/viz/HRNewProject/Dashboard1)
-
